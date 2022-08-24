@@ -1,4 +1,3 @@
-
 Package: enigma2-plugin-prinss-py2-ajpanel
 Version: tarek
 Depends: enigma2
@@ -14,4 +13,3 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
-
