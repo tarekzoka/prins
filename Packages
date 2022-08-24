@@ -1,0 +1,17 @@
+
+Package: enigma2-plugin-weblinks-py2-ajpanel
+Version: tarek
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: afc740191284e08439f8e13fa1028cc2
+Size: 257
+Filename: enigma2-plugin-weblinks-py2-ajpanel_eliesat_all.ipk
+Description: enigma tools
+Maintainer: tarek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
