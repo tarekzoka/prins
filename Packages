@@ -1,12 +1,12 @@
 
-Package: enigma2-plugin-weblinks-py2-ajpanel
+Package: enigma2-plugin-prinss-py2-ajpanel
 Version: tarek
 Depends: enigma2
 Section: prins
 Architecture: all
 MD5Sum: afc740191284e08439f8e13fa1028cc2
 Size: 257
-Filename: enigma2-plugin-weblinks-py2-ajpanel_eliesat_all.ipk
+Filename: enigma2-plugin-prins-py2-ajpanel_tarek_all
 Description: enigma tools
 Maintainer: tarek
 Priority: optional
