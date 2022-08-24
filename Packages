@@ -2,7 +2,7 @@
 Package: enigma2-plugin-weblinks-py2-ajpanel
 Version: tarek
 Depends: enigma2
-Section: weblinks
+Section: prins
 Architecture: all
 MD5Sum: afc740191284e08439f8e13fa1028cc2
 Size: 257
