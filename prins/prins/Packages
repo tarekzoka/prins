@@ -1,0 +1,852 @@
+Package: enigma2-plugin-settings-.hazemwahba.motor
+Version: eliesat
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: f175a0d4ca6b09df1118eb7f3e6d192d
+Size: 1254
+Filename: enigma2-plugin-settings-.hazemwahba.motor_eliesat_all.ipk
+Description: hazemwahba E2 Settings File Motor 34.5w to 70.5e
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-cam-keyadder
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 70bcdc78a059a60274bb1909ebb0df6a
+Size: 1738
+Filename: enigma2-plugin-weblinks-cam-keyadder_eliesat_all.ipk
+Description: softcam key adder
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-py2-ajpanel
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: afc740191284e08439f8e13fa1028cc2
+Size: 1190
+Filename: enigma2-plugin-weblinks-py2-ajpanel_eliesat_all.ipk
+Description: enigma tools
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skin-metrix-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 9b53a3f601e0d8e9ecc29b1e79f6cb27
+Size: 1378
+Filename: enigma2-plugin-weblinks-skin-metrix-fhd_eliesat_all.ipk
+Description: openatv original skin
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skin-xtraevent-4.2
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 841bbf38705da9079cffeb3a639751ba
+Size: 1078
+Filename: enigma2-plugin-weblinks-skin-xtraevent-4.2_eliesat_all.ipk
+Description: xtraevent plugin by digiteng
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skin-xtraevent-4.5
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 60e53716e94cba29456e74aa15f16108
+Size: 1080
+Filename: enigma2-plugin-weblinks-skin-xtraevent-4.5_eliesat_all.ipk
+Description: xtraevent plugin by digiteng
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skin-xtraevent
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 3f294093b35e5e3ed9da1dac55566158
+Size: 848
+Filename: enigma2-plugin-weblinks-skin-xtraevent_eliesat_all.ipk
+Description: xtraevent plugin by digiteng (latest version)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinmix-nitroadvance-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 6e9bdb288521520102f5c3042649db24
+Size: 1220
+Filename: enigma2-plugin-weblinks-skinmix-nitroadvance-fhd_eliesat_all.ipk
+Description: xtraevent and poster x all opensource images
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinparts-metrix-addons1
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 1a0abf23a2c1c470bfced80faea68a24
+Size: 964
+Filename: enigma2-plugin-weblinks-skinparts-metrix-addons1_eliesat_all.ipk
+Description: 4 posters + description
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinparts-metrix-addons2
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d141ee9838af9faa83200e1a97a261a7
+Size: 972
+Filename: enigma2-plugin-weblinks-skinparts-metrix-addons2_eliesat_all.ipk
+Description: 3 posters  now next later
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinparts-mymetrixlitebackup
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 04b9870fc031251e890590dd27804f2a
+Size: 968
+Filename: enigma2-plugin-weblinks-skinparts-mymetrixlitebackup_eliesat_all.ipk
+Description: metrix fhd settings backup
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinparts-timeshift-state
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 08937f1d5b5c0c6a7550ed9527243bba
+Size: 966
+Filename: enigma2-plugin-weblinks-skinparts-timeshift-state_eliesat_all.ipk
+Description: metrix fhd timeshift display
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-batman-vpx-fhd
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: fe4ec6e1db83ae63c83b43a8d8c941bc
+Size: 1166
+Filename: enigma2-plugin-weblinks-skinpx-batman-vpx-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-batman-vpx2-fhd
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 81a3eea88eee3c935ab75c7b1a6144cd
+Size: 1168
+Filename: enigma2-plugin-weblinks-skinpx-batman-vpx2-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-bein-vpx-fhd-black
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 15ec7c32e4bc6bfe873eed5644de17be
+Size: 1174
+Filename: enigma2-plugin-weblinks-skinpx-bein-vpx-fhd-black_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-bein-vpx-fhd
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 086a7440850440c10f3df9b25bfac9d2
+Size: 1172
+Filename: enigma2-plugin-weblinks-skinpx-bein-vpx-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-bein-vpx2-fhd-black
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: cdc8ae1dd6e61a74189c3dddf19a27ff
+Size: 1178
+Filename: enigma2-plugin-weblinks-skinpx-bein-vpx2-fhd-black_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-bein-vpx2-fhd
+Version: eliesat
+Depends: enigma2
+Section: skins
+Architecture: all
+MD5Sum: 92d6086c31affb858528333924c7f7bd
+Size: 1164
+Filename: enigma2-plugin-weblinks-skinpx-bein-vpx2-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-beta-pro-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: c9aac60748bfc51ec868382aca6fe75c
+Size: 1398
+Filename: enigma2-plugin-weblinks-skinpx-beta-pro-fhd_eliesat_all.ipk
+Description: poster x by bahaa
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-champ.league-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 85b03fc183ed3cbe7cb63b64d2257e7e
+Size: 1176
+Filename: enigma2-plugin-weblinks-skinpx-champ.league-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-icone-vpx-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 8a96229cdd46063b96d8a0daab015038
+Size: 1162
+Filename: enigma2-plugin-weblinks-skinpx-icone-vpx-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-icone-vpx2-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 097d99e3883bf38c86c95a0a245c72cc
+Size: 1164
+Filename: enigma2-plugin-weblinks-skinpx-icone-vpx2-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-icone-vpxt-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: c2521320ece329e1cdd188395217a466
+Size: 1160
+Filename: enigma2-plugin-weblinks-skinpx-icone-vpxt-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-icone-vpxt2-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d0b4690dc54359d9d8a64b7b49d18c0f
+Size: 1166
+Filename: enigma2-plugin-weblinks-skinpx-icone-vpxt2-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-metrix-confluence
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 9df423e9d38da733199e4ee1c3bf8f02
+Size: 1080
+Filename: enigma2-plugin-weblinks-skinpx-metrix-confluence_eliesat_all.ipk
+Description: poster x by lululla and dragon
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-multiposter-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 535ca3cd7ed9b5b765544ea4df4af8e4
+Size: 1582
+Filename: enigma2-plugin-weblinks-skinpx-multiposter-fhd_eliesat_all.ipk
+Description: poster x by beber
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-novaler-s-x-fhd-blue
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: cf54ecd4a23df01b298e3f8b06947408
+Size: 1240
+Filename: enigma2-plugin-weblinks-skinpx-novaler-s-x-fhd-blue_eliesat_all.ipk
+Description: poster x by mnasr
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-novaler-s-x-fhd-green
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 58933ec3ea34406ff6877b67d3266964
+Size: 1246
+Filename: enigma2-plugin-weblinks-skinpx-novaler-s-x-fhd-green_eliesat_all.ipk
+Description: poster x by mnasr
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-novaler-s-x-fhd-infrared
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d48a851f8aa088676bc969bdcb8391e9
+Size: 1252
+Filename: enigma2-plugin-weblinks-skinpx-novaler-s-x-fhd-infrared_eliesat_all.ipk
+Description: poster x by mnasr
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-orangesky-xp-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 026f1f0188e0c2a5079886064963bbc1
+Size: 1164
+Filename: enigma2-plugin-weblinks-skinpx-orangesky-xp-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-orangesky-xp2-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 20b3cf216bfe5bcc399914b6f5be8714
+Size: 1168
+Filename: enigma2-plugin-weblinks-skinpx-orangesky-xp2-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-pdreamy-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 1b252c68a9772d2bfdb670f226afc3b0
+Size: 1156
+Filename: enigma2-plugin-weblinks-skinpx-pdreamy-fhd_eliesat_all.ipk
+Description: mod mnasr (openatv)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-spiderman-vpx-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 115423c886f0a1085a3b1586553565ff
+Size: 1168
+Filename: enigma2-plugin-weblinks-skinpx-spiderman-vpx-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinpx-spiderman-vpx2-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d339174ba259358042d2fd1ed26d2002
+Size: 1172
+Filename: enigma2-plugin-weblinks-skinpx-spiderman-vpx2-fhd_eliesat_all.ipk
+Description: poster x by muaath
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-beta-pro-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 5c5bcc30ca2bf7c8e2e2733489ae2d75
+Size: 1086
+Filename: enigma2-plugin-weblinks-skinxe-beta-pro-fhd_eliesat_all.ipk
+Description: xtraevent by bahaa (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-elite-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: db6cef537fac52bd7dc0d42ca410fc6c
+Size: 1086
+Filename: enigma2-plugin-weblinks-skinxe-elite-fhd_eliesat_all.ipk
+Description: xtraevent mod sandman  (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-froid
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 1da1f5cb531a2e1591eb3f8bacabc25b
+Size: 1112
+Filename: enigma2-plugin-weblinks-skinxe-froid_eliesat_all.ipk
+Description: xtraevent by digiteng  (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-gold-dragon-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 45b3f7f2ccbdba4f3855a5bb6767ad8a
+Size: 1084
+Filename: enigma2-plugin-weblinks-skinxe-gold-dragon-fhd_eliesat_all.ipk
+Description: xtraevent (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-k3-pro
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: c176a587b1ff89b05841ae67b230550d
+Size: 1100
+Filename: enigma2-plugin-weblinks-skinxe-k3-pro_eliesat_all.ipk
+Description: xtraevent by zelda777 mod biko&dragon (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-metrix-fhd-neo
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 064fc84d0d6c718fe5529ff02262694f
+Size: 1080
+Filename: enigma2-plugin-weblinks-skinxe-metrix-fhd-neo_eliesat_all.ipk
+Description: xtraevent mod i.omary (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-metrixperience-black
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 649079f98e6f344d40655b497662c20b
+Size: 1100
+Filename: enigma2-plugin-weblinks-skinxe-metrixperience-black_eliesat_all.ipk
+Description: xtraevent mod bahaa (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-metrixperience-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 0fa927443b0bf40dac97b1ab9a20fd45
+Size: 1152
+Filename: enigma2-plugin-weblinks-skinxe-metrixperience-fhd_eliesat_all.ipk
+Description: xtraevent mod bohlala 3 in 1 (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-mx-graphite-hq-p
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 3a387f4285fdaf9a40bfb760297b6d8f
+Size: 1098
+Filename: enigma2-plugin-weblinks-skinxe-mx-graphite-hq-p_eliesat_all.ipk
+Description: xtraevent mod chari7  (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-nitrogreenwood-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: c43028abd4b98f667f64127240bbaaa5
+Size: 1090
+Filename: enigma2-plugin-weblinks-skinxe-nitrogreenwood-fhd_eliesat_all.ipk
+Description: xtraevent mod chari7  (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-nitrohoneycomb-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 6d30677843092542f6605f19c53bf932
+Size: 1088
+Filename: enigma2-plugin-weblinks-skinxe-nitrohoneycomb-fhd_eliesat_all.ipk
+Description: xtraevent by kaleem  (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-novaler-s-xtra-fhd-blue
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: d47bf17b01058c8dabfd9c04427cebb1
+Size: 1202
+Filename: enigma2-plugin-weblinks-skinxe-novaler-s-xtra-fhd-blue_eliesat_all.ipk
+Description: xtraevent by mnasr (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-obselite-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 27092b4ed92dc723f9132c80cdf9b879
+Size: 1084
+Filename: enigma2-plugin-weblinks-skinxe-obselite-fhd_eliesat_all.ipk
+Description: xtraevent by montana (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-octagon-fhd
+Version: eliesat
+Depends: enigma2
+Conflicts: enigma2-plugin-skins-extreme-fhd-all
+Replaces: /usr/lib/enigma2/python/Component/Converter/CaidInfo2.pyo, /usr/lib/enigma2/python/Component/Converter/CamdInfo3.pyo, /usr/lib/enigma2/python/Component/Converter/CamdRAED.py, /usr/lib/enigma2/python/Component/Converter/ChannelSelectionExtraInfo.pyo, /usr/lib/enigma2/python/Component/Converter/ClockToText.pyo, /usr/lib/enigma2/python/Component/Converter/ConverterRotator.py, /usr/lib/enigma2/python/Component/Converter/DFInfo.py, /usr/lib/enigma2/python/Component/Converter/EventName2.pyo, /usr/lib/enigma2/python/Component/Converter/ExtremeInfo.pyo, /usr/lib/enigma2/python/Component/Converter/FrontendInfo2.py, /usr/lib/enigma2/python/Component/Converter/gExtraTuner.pyo, /usr/lib/enigma2/python/Component/Converter/MSNWeather.py, /usr/lib/enigma2/python/Component/Converter/PliExtraInfo2.pyo, /usr/lib/enigma2/python/Component/Converter/pliLayoutInfo.pyo, /usr/lib/enigma2/python/Component/Converter/QuickEcmInfo.pyo, /usr/lib/enigma2/python/Component/Converter/QuickServName.pyo, /usr/lib/enigma2/python/Component/Converter/RouteInfo.pyo, /usr/lib/enigma2/python/Component/Converter/ServiceInfo2.pyo, /usr/lib/enigma2/python/Component/Converter/ServiceInfoEX.py, /usr/lib/enigma2/python/Component/Converter/ServiceName.pyo, /usr/lib/enigma2/python/Component/Converter/ServiceName2.pyo, /usr/lib/enigma2/python/Component/Renderer/MSNWeatherPixmap.pyo, /usr/lib/enigma2/python/Component/Renderer/NextEvents.pyo, /usr/lib/enigma2/python/Component/Renderer/nitrofhdPoster.py, /usr/lib/enigma2/python/Component/Renderer/PiconB.pyo, /usr/lib/enigma2/python/Component/Renderer/Pig.pyo, /usr/lib/enigma2/python/Component/Renderer/RunningText.py, /usr/lib/enigma2/python/Component/Renderer/TypeLabel.pyo, /usr/lib/enigma2/python/Component/Renderer/VolumeText.pyo, /usr/lib/enigma2/python/Component/Sources/MSNWeather.py, /usr/lib/enigma2/python/Component/WeatherMSN.py, /usr/lib/enigma2/python/Plugins/Extensions/WeatherPlugin, /usr/lib/enigma2/python/Plugins/SystemPlugins/WeatherComponentHandler
+Section: weblinks
+Architecture: all
+MD5Sum: e889f7a51f1953ec2280b041a6d01729
+Size: 1448
+Filename: enigma2-plugin-weblinks-skinxe-octagon-fhd_eliesat_all.ipk
+Description: xtraevent by montana (tested on openatv 6.4)
+Maintainer: Montana
+Priority: optional
+Source: none
+Homepage: 
+OE: enigma2-plugin
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-ozeta-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: e73cea9efc4b1a25a9b794a460ca0f20
+Size: 1082
+Filename: enigma2-plugin-weblinks-skinxe-ozeta-fhd_eliesat_all.ipk
+Description: xtraevent by mmark (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-weblinks-skinxe-red-dragon-fhd
+Version: eliesat
+Depends: enigma2
+Section: weblinks
+Architecture: all
+MD5Sum: 07f767625a49a8030244fa08b23dcec7
+Size: 1092
+Filename: enigma2-plugin-weblinks-skinxe-red-dragon-fhd_eliesat_all.ipk
+Description: xtraevent by zelda777 (tested on openatv 6.4)
+Maintainer: eliesat
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
